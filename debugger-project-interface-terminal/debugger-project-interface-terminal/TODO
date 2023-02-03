@@ -1,0 +1,4 @@
+SENDER
+
+note : new JDISimpleDebugger(JDISimpleDebuggee.class);
+//new JDISimpleDebugger(JDISimpleDebuggee.class);
