@@ -34,7 +34,7 @@ On a remis deux versions du projet qui s'exécute chaque dans workspace.
     <li> v2 debugger-project-interface-redirection : Elle a une interface, on a un champ pour mettre le nom de classe du fichier que l'on veut débugger et sur cette version l'utilisateur interagit avec le debugger à partir de l'interface, mais celle-ci ne fonctionne pas bien et la fonction Step à été mis par défaut. L'exécution du programme, le débuggeur se lance et s'affiche au niveau de l'interface.</li>
 </ul>
 
-![Diagramme de packages](./image/projet-line-interface "projet-line-interface")
+![Diagramme de packages](./image/projet-line-interface.png "projet-line-interface")
 
 ## Lancement du projet
 
